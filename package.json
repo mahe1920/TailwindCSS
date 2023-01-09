@@ -1,0 +1,22 @@
+{
+  "name": "tailwindcss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahe1920/TailwindCSS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahe1920/TailwindCSS/issues"
+  },
+  "homepage": "https://github.com/mahe1920/TailwindCSS#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
